@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left Dark Half (Deep Charcoal #161B22) -->
+    <path
+        android:fillColor="#161B22"
+        android:pathData="M0,0h54v108h-54z" />
+    <!-- Right Light Half (Crisp White/Off-White #F8FAFC) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,0h54v108h-54z" />
+    <!-- Center Neon Blue Split Divider -->
+    <path
+        android:fillColor="#00FFFF"
+        android:pathData="M53.5,0h1v108h-1z" />
+</vector>

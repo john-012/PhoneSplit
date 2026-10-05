@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left Pane Video Player Representation -->
+    <path
+        android:fillColor="#21262D"
+        android:pathData="M16,30h30c2.2,0 4,1.8 4,4v40c0,2.2 -1.8,4 -4,4H16c-2.2,0 -4,-1.8 -4,-4V34c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Neon Blue Play Icon -->
+    <path
+        android:fillColor="#00FFFF"
+        android:pathData="M27,46l12,8l-12,8V46z" />
+
+    <!-- Right Pane Chat Messaging Representation -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,30h30c2.2,0 4,1.8 4,4v28c0,2.2 -1.8,4 -4,4H76l-10,8v-8h-4c-2.2,0 -4,-1.8 -4,-4V34c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Pastel Orange Chat Bubble Lines -->
+    <path
+        android:fillColor="#FF8C42"
+        android:pathData="M66,40h18v3H66zM66,47h12v3H66z" />
+</vector>
